@@ -1,5 +1,5 @@
 # NextJS-Supabase-TailwindCSS-Shadcn-Motion_TEMPLATE
- creating a fast deploy template for future projects, while exploring a new stack
+The motivation behind this repository is to create a hastily deployed template for future projects/hackathons. 
 
 # STEP 1
 SET UP SUPABASE
