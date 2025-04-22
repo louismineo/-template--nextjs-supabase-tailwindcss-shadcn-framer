@@ -20,3 +20,9 @@ npm install framer-motion
 
 # Dark mode theming
 npm install next-themes
+
+
+# SET UP SUPABASE
+1. Go to https://supabase.com/ and create a new project.
+2. Get your project URL and anon public key.
+3. Create a .env.local file in your root directory:
