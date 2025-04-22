@@ -1,4 +1,4 @@
-# [template] nextjs-supabase-tailwindcss-shadcn-framer
+# NextJS-Supabase-TailwindCSS-Shadcn-Motion_TEMPLATE
  creating a fast deploy template for future projects, while exploring a new stack
 
 
