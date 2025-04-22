@@ -33,22 +33,29 @@ Reaching this step means your set-up of this template project has been successfu
 
 
 # Resources for using this techstack
+
 ## NextJS
-https://youtu.be/wPTyluxgPQU?si=EqId6E-ezj6wNmYS
+[Understanding NextJS Rendering | SSG vs SSR vs ISR vs CSR](https://youtu.be/wPTyluxgPQU?si=EqId6E-ezj6wNmYS)  
+[![Understanding NextJS Rendering | SSG vs SSR vs ISR vs CSR](https://img.youtube.com/vi/wPTyluxgPQU/hqdefault.jpg)](https://youtu.be/wPTyluxgPQU?si=EqId6E-ezj6wNmYS)
 
-https://youtu.be/gSSsZReIFRk?si=CbGOaycJQF7Mi2ak
+[Next.js Full Course - Build and Deploy a React App](https://youtu.be/gSSsZReIFRk?si=CbGOaycJQF7Mi2ak)  
+[![Next.js Full Course - Build and Deploy a React App](https://img.youtube.com/vi/gSSsZReIFRk/hqdefault.jpg)](https://youtu.be/gSSsZReIFRk?si=CbGOaycJQF7Mi2ak)
+
 ## TailwindCSS
-https://youtu.be/mr15Xzb1Ook?si=P5wCIoFTw9gBMtVU
+[Tailwind CSS Crash Course](https://youtu.be/mr15Xzb1Ook?si=P5wCIoFTw9gBMtVU)  
+[![Tailwind CSS Crash Course](https://img.youtube.com/vi/mr15Xzb1Ook/hqdefault.jpg)](https://youtu.be/mr15Xzb1Ook?si=P5wCIoFTw9gBMtVU)
+
 ## Supabase
-https://www.youtube.com/watch?v=Gz9bvYybaws&ab_channel=NetNinja
+[Supabase Tutorial for Beginners](https://www.youtube.com/watch?v=Gz9bvYybaws&ab_channel=NetNinja)  
+[![Supabase Tutorial for Beginners](https://img.youtube.com/vi/Gz9bvYybaws/hqdefault.jpg)](https://www.youtube.com/watch?v=Gz9bvYybaws&ab_channel=NetNinja)
+
 ## Shadcn
-https://youtu.be/3tIpgRwKWEs?si=8kCxuzz6IDXxlZ9A&t=210
+[shadcn/ui - Component Library for Tailwind CSS](https://youtu.be/3tIpgRwKWEs?si=8kCxuzz6IDXxlZ9A&t=210)  
+[![shadcn/ui - Component Library for Tailwind CSS](https://img.youtube.com/vi/3tIpgRwKWEs/hqdefault.jpg)](https://youtu.be/3tIpgRwKWEs?si=8kCxuzz6IDXxlZ9A&t=210)
+
 ## Framer 
-https://youtu.be/31y7-k3ZG0g?si=T4wKIszPjPbrwIcQ&t=170
-
-
-
-
+[Framer Tutorial for Beginners](https://youtu.be/31y7-k3ZG0g?si=T4wKIszPjPbrwIcQ&t=170)  
+[![Framer Tutorial for Beginners](https://img.youtube.com/vi/31y7-k3ZG0g/hqdefault.jpg)](https://youtu.be/31y7-k3ZG0g?si=T4wKIszPjPbrwIcQ&t=170)
 
 
 
