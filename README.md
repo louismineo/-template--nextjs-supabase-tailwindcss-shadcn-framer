@@ -35,6 +35,7 @@ Reaching this step means your set-up of this template project has been successfu
 # Resources for using this techstack
 ## NextJS
 https://youtu.be/wPTyluxgPQU?si=EqId6E-ezj6wNmYS
+
 https://youtu.be/gSSsZReIFRk?si=CbGOaycJQF7Mi2ak
 ## TailwindCSS
 https://youtu.be/mr15Xzb1Ook?si=P5wCIoFTw9gBMtVU
