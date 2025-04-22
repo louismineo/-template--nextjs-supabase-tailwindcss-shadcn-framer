@@ -2,6 +2,9 @@
 The motivation behind this repository is to create a hastily deployed template for future projects/hackathons. 
 
 # STEP 1
+Clone this repo to your local machine.
+
+# STEP 2
 SET UP SUPABASE
 1. Go to https://supabase.com/ and create a new project.
 2. Get your project URL and anon public key.
@@ -10,10 +13,10 @@ SET UP SUPABASE
 ![image](https://github.com/user-attachments/assets/18bf7448-7d9f-43a4-a87b-b587452f1cee)
 
 
-# STEP 2
+# STEP 3
 cd into 'template-app' and run 'npm i' to install packages
 
-# STEP 3
+# STEP 4
 1. run 'npm run dev'
 2. Open https://localhost:3000 on your web browser and should appear with the default NextJs page
 
@@ -49,24 +52,25 @@ https://youtu.be/31y7-k3ZG0g?si=T4wKIszPjPbrwIcQ&t=170
 
 # Appendices
 
-## NextJs setup
+### NextJs setup
 npx create-next-app@latest template-app --typescript
 cd template-app
 
-## Tailwind CSS & related
+### Tailwind CSS & related
 npm install -D tailwindcss postcss autoprefixer tailwindcss-animate
 npm install -D @tailwindcss/postcss
 
-## Supabase (auth helpers for Next.js)
+### Supabase (auth helpers for Next.js)
 npm install @supabase/supabase-js @supabase/ssr
 
-## shadcn/ui
+### shadcn/ui
 npm install @shadcn/ui clsx tailwind-merge
-## shadcn starter pack install
+
+### shadcn starter pack install
 npx shadcn@latest add button input card dialog dropdown-menu sonner tooltip avatar switch form sheet
 
-## Framer Motion
+### Framer Motion
 npm install framer-motion
 
-## Dark mode theming
+### Dark mode theming
 npm install next-themes
