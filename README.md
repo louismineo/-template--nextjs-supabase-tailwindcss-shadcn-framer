@@ -10,6 +10,9 @@ cd template-app
 npm install -D tailwindcss postcss autoprefixer tailwindcss-animate
 npm install -D @tailwindcss/postcss
 
+# Supabase (auth helpers for Next.js)
+npm install @supabase/supabase-js @supabase/ssr
+
 # shadcn/ui
 npm install @shadcn/ui clsx tailwind-merge
 # shadcn starter pack install
