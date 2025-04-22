@@ -13,7 +13,7 @@ npm install -D @tailwindcss/postcss
 # shadcn/ui
 npm install @shadcn/ui clsx tailwind-merge
 # shadcn starter pack install
-npx shadcn@latest add button input card dialog dropdown-menu toast tooltip avatar switch form sheet
+npx shadcn@latest add button input card dialog dropdown-menu sonner tooltip avatar switch form sheet
 
 # Framer Motion
 npm install framer-motion
