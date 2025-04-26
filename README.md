@@ -5,7 +5,7 @@ The motivation behind this repository is to create a hastily deployed template f
 Clone this repo to your local machine.
 
 # STEP 2
-SET UP SUPABASE
+Setting up of Supabase
 1. Go to https://supabase.com/ and create a new project.
 2. Get your project URL and anon public key.
 3. Create a .env.local file in your root directory:
@@ -14,10 +14,17 @@ SET UP SUPABASE
 
 
 # STEP 3
-cd into 'template-app' and run 'npm i' to install packages
+Installing libaries.
+
+Open your terminal at the project's cloned folder on your system
+
+Run `cd template-app` to go into the nextjs project folder.
+
+Run `npm i` to install the relevant libraries and packages.
+
 
 # STEP 4
-1. run 'npm run dev'
+1. run `npm run dev`
 2. Open https://localhost:3000 on your web browser and should appear with the default NextJs page
 
 ![image](https://github.com/user-attachments/assets/54d141b9-b764-43ec-ba96-2fcc90211a95)
@@ -27,7 +34,9 @@ cd into 'template-app' and run 'npm i' to install packages
 ![image](https://github.com/user-attachments/assets/e7413a79-f07e-4ef4-95b8-8108f0f199fb)
 
 
-Reaching this step means your set-up of this template project has been successful. Congratulations.
+Reaching this step means your set-up of this template project has been successful. 
+
+🎉🥳 Congratulations 🎉🥳
 
 
 
