@@ -1,10 +1,10 @@
-"use client";
+'use client';
 
-import { Button } from "@/components/ui/button";
-import { motion } from "framer-motion";
-import { supabase } from "@/lib/supabaseClient";
-import { useEffect, useState } from "react";
-import type { User } from "@supabase/supabase-js";
+import { Button } from '@/components/ui/button';
+import { motion } from 'framer-motion';
+import { supabase } from '@/lib/supabaseClient';
+import { useEffect, useState } from 'react';
+import type { User } from '@supabase/supabase-js';
 
 export default function Home() {
   const [user, setUser] = useState<User | null>(null);
@@ -19,14 +19,14 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-background px-4 py-24 text-foreground">
+    <main className="bg-background text-foreground flex min-h-screen flex-col items-center justify-center px-4 py-24">
       <motion.h1
-        className="text-4xl font-bold tracking-tight text-center"
+        className="text-center text-4xl font-bold tracking-tight"
         initial={{ opacity: 0, y: -30 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5, ease: "easeOut" }}
+        transition={{ duration: 0.5, ease: 'easeOut' }}
       >
-        Welcome {user?.email ?? "Guest"}!
+        Welcome {user?.email ?? 'Guest'}!
       </motion.h1>
 
       <motion.div
