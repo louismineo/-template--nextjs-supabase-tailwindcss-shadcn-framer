@@ -1,4 +1,4 @@
-# NextJS-Supabase-TailwindCSS-Shadcn-Motion_TEMPLATE
+# NextJS Supabase TailwindCSS Shadcn Motion TEMPLATE
 The motivation behind this repository is to create a hastily deployed template for future projects/hackathons. 
 
 # STEP 1
