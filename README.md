@@ -12,6 +12,11 @@ Setting up of Supabase
 
 ![image](https://github.com/user-attachments/assets/18bf7448-7d9f-43a4-a87b-b587452f1cee)
 
+```
+NEXT_PUBLIC_SUPABASE_URL=<YOUR_PROJECT_PUBLIC_URL>
+NEXT_PUBLIC_SUPABASE_ANON_KEY=<YOUR_PROJECT_ANON_KEY>
+```
+
 
 # STEP 3
 Installing libaries.
